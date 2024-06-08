@@ -17,11 +17,11 @@ function App() {
   }
 
   function getTitle() {
-    return isRaining ? "It's raining" : "It's sunny";
+    return isRaining ? "It's sunny" : "It's raining";
   }
 
   function getBackgroundColor() {
-    return isRaining ? "blue" : "yellow";
+    return isRaining ? "yellow" : "blue";
   }
 
   
